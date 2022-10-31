@@ -1,0 +1,89 @@
+body{
+   background-color: rgb(222, 222, 222);
+   width: 70%;
+   margin: auto;
+
+}
+#demo {
+  color: rgb(0, 92, 44);
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 5px;
+  margin: auto;
+}
+table{
+  margin: auto;
+}
+.m{
+  margin: auto;
+  width: 30em;
+  background-color: white;
+}
+
+.Main{
+  text-align: center;
+  margin: auto;
+ 
+  border: 5px solid #FFFF00;
+  padding: 10px;
+  background-color: white;
+}
+.head{
+  font-family: sans-serif;
+  color: white;
+  background-color: rgb(34, 133, 98);
+  padding: 5px;
+}
+
+tr{
+  width: 100%;
+}
+.b{
+  width: 40px;
+}
+
+td.e{
+  width: 10%;
+  padding-right: 15px;
+  text-align: right;
+  font-weight: bold;
+}
+nav{
+    background-color: green;
+    width: 100%;
+
+}
+input{
+    width: 75%;
+}
+input#submit{
+          width: 60px;
+}
+.btn{
+background-color: rgb(230, 243, 238);
+text-align: center;
+margin: 4px;
+padding: 15px;
+  
+  
+}
+a{
+  text-decoration: none;
+  color: firebrick;
+}
+.bt{
+  margin-right: 5px;
+ 
+}
+#myDIV{
+  color: rgb(255, 255, 255);
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 5px;
+  margin: auto;
+}
+.ll{
+ margin: 2px;
+  padding: 10px;
+  font-size:small;
+}
